@@ -11,4 +11,4 @@ youtube.com##ytd-shelf-renderer #dismissible
 youtube.com##ytd-watch-flexy #secondary
 ```
 
-## Note: Rules may break when YouTube updates it's UI. But I will try to update the rules as soon as possible.
+#### Note: Rules may break when YouTube updates it's UI. But I will try to update the rules as soon as possible.
