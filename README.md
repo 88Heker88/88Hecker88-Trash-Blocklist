@@ -1,4 +1,4 @@
-# Youtube Trash Blocklist
+# My Trash Blocklist
 
 ## Element Blocklist:
 ```
