@@ -18,3 +18,6 @@ www.twitch.tv##.Layout-sc-1xcs6mc-0.gtCgbV
 mail.google.com##.I6agWe
 mangadex.org##.p-4.rounded-lg.bg-background.border-primary.border-2.flex.flex-col
 mangadex.org##.md\:flex-grow.rounded-lg.drop-shadow.rounded.custom-opacity.relative.md-btn.flex.items-center.px-3.overflow-hidden.primary.frosted.glow.animation-shine
+gemini.google.com##.upsell-label.gds-label-m.ng-tns-c3813137085-2.ng-trigger.ng-trigger-labelEnterLeaveAnimation.ng-star-inserted
+gemini.google.com##.ng-tns-c3813137085-2.gds-icon-s.ng-star-inserted
+gemini.google.com##.mdc-button.mat-mdc-button-base.ng-tns-c3813137085-2.mdc-button--unelevated.mat-mdc-unelevated-button.gds-upsell-button.mat-unthemed
